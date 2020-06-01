@@ -1,0 +1,502 @@
+الجدول ١
+Credit-Application-Result;Account-Balance;Duration-of-Credit-Month;Payment-Status-of-Previous-Credit;Purpose;Credit-Amount;Value-Savings-Stocks;Length-of-current-employment;Instalment-per-cent;Guarantors;Duration-in-Current-address;Most-valuable-available-asset;Age-years;Concurrent-Credits;Type-of-apartment;No-of-Credits-at-this-Bank;Occupation;No-of-dependents;Telephone;Foreign-Worker
+Creditworthy;Some Balance;٤;Paid Up;Other;١٤٩٤;£100-£1000;< 1yr;١;None;٢;١;;Other Banks/Depts;٢;1;١;٢;١;٢
+Creditworthy;Some Balance;٤;Paid Up;Home Related;١٤٩٤;£100-£1000;< 1yr;١;None;٢;١;٢٩;Other Banks/Depts;٢;1;١;٢;١;٢
+Creditworthy;Some Balance;٤;No Problems (in this bank);Home Related;١٥٤٤;None;1-4 yrs;٢;None;١;١;٤٢;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;Some Balance;٤;No Problems (in this bank);Home Related;٣٣٨٠;None;1-4 yrs;١;None;١;١;٣٧;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٦;Paid Up;Home Related;٣٤٣;None;< 1yr;٤;None;١;١;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٦;No Problems (in this bank);Home Related;٣٦٢;< £100;< 1yr;٤;None;;٣;٥٢;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٦;Some Problems;Home Related;٤٣٣;£100-£1000;< 1yr;٤;None;;٢;٢٤;Other Banks/Depts;١;1;١;٢;١;١
+Creditworthy;No Account;٦;Paid Up;Home Related;٤٥٤;None;< 1yr;٣;None;;٢;٢٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٦;Paid Up;Home Related;٤٨٤;None;1-4 yrs;٣;Yes;٣;١;٢٨;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;Home Related;٦٦٠;£100-£1000;1-4 yrs;٢;None;٤;١;٢٣;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٦;No Problems (in this bank);Home Related;٦٦٦;£100-£1000;1-4 yrs;٣;None;٤;١;٣٩;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٦;No Problems (in this bank);Home Related;٧٠٠;£100-£1000;4-7 yrs;٤;None;;٤;٣٦;Other Banks/Depts;٣;More than 1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;Home Related;٧٠٩;£100-£1000;< 1yr;٢;None;٢;١;٢٧;Other Banks/Depts;٢;1;١;١;١;٢
+Creditworthy;No Account;٦;No Problems (in this bank);Home Related;٩٣٢;£100-£1000;1-4 yrs;١;None;;٢;٣٩;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٦;No Problems (in this bank);Home Related;١٠٤٧;None;< 1yr;٢;None;;٢;٥٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٦;Paid Up;Home Related;١٠٦٨;None;4-7 yrs;٤;None;;٣;٢٨;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٦;Paid Up;Home Related;١٢٠٣;< £100;4-7 yrs;٣;None;;٢;٤٣;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٦;No Problems (in this bank);Used car;١٢٢١;£100-£1000;< 1yr;١;None;;٢;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;New car;١٢٣٦;£100-£1000;< 1yr;٢;None;;٢;٥٠;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;Home Related;١٣٣٨;£100-£1000;< 1yr;١;None;٤;١;٦٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;Home Related;١٣٤٦;< £100;4-7 yrs;٢;None;;٤;٤٢;Other Banks/Depts;٣;1;١;٢;٢;١
+Creditworthy;No Account;٦;No Problems (in this bank);Home Related;١٣٦١;None;< 1yr;٢;None;٤;١;٤٠;Other Banks/Depts;٢;1;١;٢;١;٢
+Creditworthy;No Account;٦;Paid Up;Used car;١٣٧٤;None;< 1yr;١;None;٢;١;٣٦;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٦;Paid Up;Home Related;١٣٧٤;£100-£1000;< 1yr;٤;None;;٢;٧٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٦;No Problems (in this bank);Home Related;١٤٤٩;< £100;4-7 yrs;١;None;;٣;٣١;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;Some Balance;٦;Paid Up;Home Related;١٥٣٨;None;< 1yr;١;None;;٤;٥٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;Used car;١٥٤٣;£100-£1000;< 1yr;٤;None;٢;١;٣٣;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٦;No Problems (in this bank);Home Related;١٨٩٨;£100-£1000;< 1yr;١;None;٢;١;٣٤;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;No Account;٦;Paid Up;Home Related;٢٠٦٣;None;< 1yr;٤;None;;٣;٣٠;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٦;Paid Up;Home Related;٢١٠٨;None;1-4 yrs;٢;None;٢;١;٢٩;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٦;Paid Up;Used car;٢١١٦;None;< 1yr;٢;None;٢;١;٤١;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٦;Paid Up;Used car;٢٩٧٨;£100-£1000;< 1yr;١;None;;٣;٣٢;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٦;No Problems (in this bank);Home Related;٣٦٧٦;None;< 1yr;١;None;٣;١;٣٧;Other Banks/Depts;١;More than 1;١;٢;١;١
+Non-Creditworthy;Some Balance;٦;Paid Up;Used car;٤٦١١;None;< 1yr;١;None;;٢;٣٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٦;No Problems (in this bank);Home Related;٤٧١٦;£100-£1000;< 1yr;١;None;٣;١;٤٤;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;Some Balance;٦;No Problems (in this bank);Home Related;٦٧٦١;None;1-4 yrs;١;None;;٤;٤٥;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Non-Creditworthy;No Account;٦;Paid Up;Home Related;١٤٥٥٥;£100-£1000;< 1yr;١;None;;٢;٢٣;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٦;Paid Up;Home Related;١٤٨٩٦;None;4-7 yrs;١;None;;٤;٦٨;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٧;No Problems (in this bank);Home Related;٧٣٠;£100-£1000;4-7 yrs;٤;None;;٢;٤٦;Other Banks/Depts;١;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٧;No Problems (in this bank);Home Related;٨٤٦;£100-£1000;4-7 yrs;٣;None;;٤;٣٦;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;No Account;٧;Paid Up;Home Related;٢٥٧٦;None;< 1yr;٢;Yes;٢;١;٣٥;Other Banks/Depts;٢;1;١;١;١;٢
+Creditworthy;No Account;٨;Paid Up;Home Related;٧٦٠;None;1-4 yrs;٤;Yes;٢;١;٤٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٨;Paid Up;Home Related;٩٠٧;None;< 1yr;٣;None;٢;١;٢٦;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٨;No Problems (in this bank);Home Related;١١٦٤;None;4-7 yrs;٣;None;;٤;٥١;Other Banks/Depts;٣;More than 1;١;٢;٢;١
+Creditworthy;No Account;٨;Paid Up;Home Related;١٤١٤;None;< 1yr;٤;Yes;٢;١;٣٣;Other Banks/Depts;٢;1;١;١;١;٢
+Creditworthy;No Account;٨;No Problems (in this bank);Home Related;٣٣٩٨;None;1-4 yrs;١;None;٤;١;٣٩;Other Banks/Depts;٢;More than 1;١;١;١;٢
+Creditworthy;No Account;٩;Paid Up;Home Related;٢٧٦;None;< 1yr;٤;None;٤;١;٢٢;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;Some Balance;٩;Paid Up;Home Related;٧٤٥;None;< 1yr;٣;None;٢;١;٢٨;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٩;No Problems (in this bank);Home Related;٩٣٦;£100-£1000;4-7 yrs;٤;None;;٣;٥٢;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٩;Paid Up;Used car;٩٥٩;None;< 1yr;١;None;;٣;٢٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٩;No Problems (in this bank);Home Related;١١٣٨;None;< 1yr;٤;None;٤;١;٢٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٩;No Problems (in this bank);Home Related;١١٥٤;None;4-7 yrs;٢;None;٤;١;٣٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٩;Paid Up;Other;١١٩٩;None;1-4 yrs;٤;None;٤;٢;;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٩;Paid Up;Home Related;١١٩٩;None;1-4 yrs;٤;None;;٢;٦٧;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٩;No Problems (in this bank);Home Related;١٢٢٤;None;< 1yr;٣;None;١;١;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٩;No Problems (in this bank);Home Related;١٢٤٤;£100-£1000;4-7 yrs;٤;None;;٢;٤١;Other Banks/Depts;١;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;٩;Some Problems;Home Related;١٣٣٧;None;< 1yr;٤;None;;٣;٣٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٩;Paid Up;Home Related;١٣٦٤;None;1-4 yrs;٣;None;٤;١;٥٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٩;Paid Up;Used car;١٣٨٨;None;< 1yr;٤;None;٢;١;٢٦;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٩;Paid Up;Home Related;١٣٩١;None;< 1yr;٢;None;١;١;٢٧;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٩;Some Problems;Home Related;١٤٣٧;< £100;1-4 yrs;٢;None;;٤;٢٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٩;Paid Up;Home Related;١٤٤٩;None;1-4 yrs;٣;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٩;No Problems (in this bank);Home Related;١٥٠١;None;4-7 yrs;٢;None;;٣;٣٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٩;Paid Up;Other;١٥٤٩;£100-£1000;< 1yr;٤;None;٢;١;;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٩;Paid Up;Home Related;١٥٤٩;£100-£1000;< 1yr;٤;None;٢;١;٣٥;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٩;Paid Up;Home Related;١٦٧٠;None;< 1yr;٤;None;;٣;٢٢;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٩;No Problems (in this bank);Used car;١٩١٩;None;1-4 yrs;٤;None;;٣;٣٥;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;No Account;٩;Paid Up;Used car;٢٠٣٠;£100-£1000;1-4 yrs;٢;None;;٣;٢٤;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٩;No Problems (in this bank);Home Related;٢١٣٤;None;< 1yr;٤;None;;٣;٤٨;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٩;No Problems (in this bank);Used car;٢٤٠٦;None;< 1yr;٢;None;;٣;٣١;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٩;Paid Up;Home Related;٢٦٩٧;None;< 1yr;١;None;٢;١;٣٢;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٩;Paid Up;Home Related;٣١٩٥;£100-£1000;< 1yr;١;None;٢;١;٣٣;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٩;Some Problems;New car;٥١٢٩;None;4-7 yrs;٢;None;;٤;٧٤;Other Banks/Depts;٣;1;١;٢;٢;١
+Creditworthy;Some Balance;١٠;Paid Up;Home Related;١٢٢٥;None;< 1yr;٢;None;;٣;٣٧;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;١٠;Paid Up;Home Related;١٢٤٠;< £100;4-7 yrs;١;None;;٤;٤٨;Other Banks/Depts;٣;1;١;٢;١;١
+Creditworthy;Some Balance;١٠;Paid Up;Used car;١٢٧٥;None;< 1yr;٤;None;;٢;٢٣;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٠;Paid Up;Home Related;١٣٠٩;£100-£1000;< 1yr;٤;Yes;;٢;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٠;Paid Up;Home Related;١٣٦٤;None;< 1yr;٢;None;;٣;٦٤;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٠;Paid Up;Home Related;١٥٤٦;None;< 1yr;٣;None;٢;١;٣١;Other Banks/Depts;٢;1;١;٢;١;٢
+Creditworthy;No Account;١٠;No Problems (in this bank);Home Related;٢٢٤١;None;< 1yr;١;None;٣;١;٤٨;Other Banks/Depts;١;More than 1;١;٢;١;٢
+Creditworthy;No Account;١٠;Paid Up;Home Related;٢٣١٥;None;4-7 yrs;٣;None;٤;١;٥٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٠;Paid Up;New car;٢٩٠١;£100-£1000;< 1yr;١;None;٤;١;٣١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٠;Paid Up;Home Related;٣٩٤٩;None;< 1yr;١;Yes;;٢;٣٧;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;١٠;Paid Up;Home Related;٧٣٠٨;None;< 1yr;٢;None;;٤;٧٠;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;Some Balance;١١;No Problems (in this bank);Home Related;١١٥٤;< £100;< 1yr;٤;None;٤;١;٥٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١١;No Problems (in this bank);Home Related;١٣٢٢;£100-£1000;< 1yr;٤;None;;٣;٤٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١١;Paid Up;Used car;١٥٧٧;£100-£1000;< 1yr;٤;None;١;١;٢٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١١;Paid Up;Home Related;٢١٤٢;£100-£1000;4-7 yrs;١;None;٢;١;٢٨;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١١;No Problems (in this bank);Home Related;٣٩٣٩;None;< 1yr;١;None;٢;١;٤٠;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;No Account;١٢;Some Problems;Home Related;٣٣٩;None;4-7 yrs;٤;None;;٣;٤٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;٣٨٥;None;1-4 yrs;٤;None;٣;١;٥٨;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;٥٨٥;None;< 1yr;٤;Yes;٤;١;٢٠;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٦٢٥;None;< 1yr;٤;Yes;١;١;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٦٣٩;None;< 1yr;٤;None;;٣;٣٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;٦٥٢;None;4-7 yrs;٤;None;;٢;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٦٧٤;< £100;1-4 yrs;٤;None;;٢;٢٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٦٨٢;< £100;1-4 yrs;٤;None;;٣;٥١;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;١٢;Some Problems;Home Related;٦٩٧;None;< 1yr;٤;None;;٣;٤٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٧٠١;None;< 1yr;٤;None;;٣;٣٢;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٧٠١;None;< 1yr;٤;None;٢;١;٤٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;٧٠٨;None;< 1yr;٢;Yes;;٢;٣٨;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٧١٧;None;4-7 yrs;٤;None;٤;١;٥٢;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;١٢;Paid Up;Home Related;٧١٩;None;4-7 yrs;٤;None;;٣;٤١;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٧٥٤;£100-£1000;4-7 yrs;٤;None;;٢;٣٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٧٥٩;None;1-4 yrs;٤;None;٢;١;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Used car;٧٦٣;None;< 1yr;٤;None;١;١;٢٦;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٧٦٦;£100-£1000;< 1yr;٤;None;٣;١;٦٦;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٢;No Problems (in this bank);Other;٧٩٧;£100-£1000;4-7 yrs;٤;None;٣;٢;٣٣;Other Banks/Depts;٢;1;١;٢;١;١
+Non-Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٧٩٧;£100-£1000;4-7 yrs;٤;None;;٢;٣٣;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٨٤١;< £100;1-4 yrs;٢;None;٤;١;٢٣;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٨٨٦;£100-£1000;< 1yr;٤;None;;٣;٢١;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٨٨٨;None;4-7 yrs;٤;None;;٣;٤١;Other Banks/Depts;٢;1;١;٢;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٩٠٠;£100-£1000;< 1yr;٤;None;;٣;٢٣;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٩٠٢;None;1-4 yrs;٤;None;;٢;٢١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٩٢٦;None;< 1yr;١;None;;٢;٣٨;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Other;٩٣٠;£100-£1000;4-7 yrs;٤;None;٤;١;;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٩٣٠;£100-£1000;4-7 yrs;٤;None;٤;١;٦٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;٩٥٨;None;1-4 yrs;٢;None;٣;١;٤٧;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;٩٨٣;£100-£1000;< 1yr;١;None;٤;١;١٩;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٩٩٦;£100-£1000;1-4 yrs;٤;None;٤;١;٢٣;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١٠٣٧;< £100;1-4 yrs;٣;None;٤;١;٣٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١١٠٣;None;1-4 yrs;٤;Yes;٣;١;٢٩;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١١٠٧;None;< 1yr;٢;None;٢;١;٢٠;Other Banks/Depts;١;1;١;٢;٢;١
+Non-Creditworthy;No Account;١٢;Some Problems;Home Related;١١٠٨;None;1-4 yrs;٤;None;٣;١;٢٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;١٢;Paid Up;Used car;١١٢٣;£100-£1000;< 1yr;٤;None;;٣;٢٩;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١١٥٨;£100-£1000;< 1yr;٣;None;;٣;٢٦;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;١١٨٥;None;< 1yr;٣;None;٢;١;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١٢٠٠;£100-£1000;< 1yr;٤;None;;٢;٢٣;Other Banks/Depts;١;1;١;١;٢;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;١٢٢٣;None;4-7 yrs;١;None;١;١;٤٦;Other Banks/Depts;١;More than 1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;١٢٢٨;None;< 1yr;٤;None;٢;١;٢٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;١٢٤٠;£100-£1000;4-7 yrs;٤;None;٢;١;٣٨;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Used car;١٢٥٨;None;< 1yr;٢;None;;٢;٢٢;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;١٢٦٢;None;< 1yr;٣;None;;٣;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;١٢٧٤;None;< 1yr;٣;None;١;١;٣٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;١٢٨٩;None;< 1yr;٤;Yes;;٢;٢١;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١٣١٨;£100-£1000;4-7 yrs;٤;None;٤;١;٥٤;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;١٣٣٠;None;< 1yr;٤;None;١;١;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;١٣٣١;None;< 1yr;٢;None;;٣;٢٢;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٢;Paid Up;Home Related;١٣٨٦;£100-£1000;< 1yr;٢;None;;٢;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Other;١٤٠٢;£100-£1000;1-4 yrs;٣;None;٤;٣;;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Used car;١٤٠٢;£100-£1000;1-4 yrs;٣;None;;٣;٣٧;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;No Account;١٢;No Problems (in this bank);New car;١٤٠٩;None;4-7 yrs;٤;None;٣;١;٥٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;١٤٢٤;None;1-4 yrs;٤;None;;٢;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Used car;١٤٢٤;£100-£1000;4-7 yrs;٣;None;٤;١;٥٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٢;Paid Up;Used car;١٤٧٤;None;< 1yr;٤;None;;٢;٣٣;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;١٤٨٤;£100-£1000;< 1yr;٢;None;١;١;٢٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;١٤٩٣;None;< 1yr;٤;None;;٣;٣٤;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);New car;١٥٠٣;None;< 1yr;٤;None;٤;١;٤١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);New car;١٥٢٦;None;4-7 yrs;٤;None;;٤;٦٦;Other Banks/Depts;٣;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;١٥٥٥;£100-£1000;4-7 yrs;٤;None;;٤;٥٥;Other Banks/Depts;٣;More than 1;١;٢;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;١٦٢٠;None;< 1yr;٢;Yes;;٢;٣٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Other;١٧٣٦;None;1-4 yrs;٣;None;٤;١;;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Used car;١٧٣٦;None;1-4 yrs;٣;None;٤;١;٣١;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;١٨٥٨;None;< 1yr;٤;None;;٣;٢٢;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);New car;١٨٦٠;None;< 1yr;٤;None;;٣;٣٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;١٨٨٤;None;4-7 yrs;٤;None;;٣;٣٩;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;١٨٩٣;None;< 1yr;٤;Yes;;٢;٢٩;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;١٩٩٥;< £100;< 1yr;٤;None;;٣;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٢٠٠٢;None;1-4 yrs;٣;None;;٢;٣٠;Other Banks/Depts;١;1;١;٢;٢;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٢٠١٢;£100-£1000;1-4 yrs;٤;None;;٣;٦١;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;٢١٢١;None;< 1yr;٤;None;;٢;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٢١٤١;< £100;1-4 yrs;٣;None;;٤;٣٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٢١٧١;None;< 1yr;٢;None;;٣;٢٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;٢١٧١;None;< 1yr;٤;None;;٢;٣٨;Other Banks/Depts;٢;More than 1;١;١;١;٢
+Non-Creditworthy;No Account;١٢;No Problems (in this bank);Used car;٢٢٤٦;None;4-7 yrs;٣;None;;٢;٦٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٢٢٤٧;None;< 1yr;٢;None;;٣;٣٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٢٢٧٩;£100-£1000;< 1yr;٤;None;;٤;٣٧;Other Banks/Depts;٣;1;١;١;٢;١
+Non-Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٢٢٩٢;None;< 1yr;٤;None;;٣;٤٢;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;١٢;Paid Up;Used car;٢٥٧٧;None;< 1yr;٢;None;;٣;٤٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Home Related;٢٧٤٨;None;4-7 yrs;٢;None;;٤;٥٧;Other Banks/Depts;٣;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٢٨٥٩;£100-£1000;< 1yr;٤;None;;٤;٣٨;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٢٩٣٠;None;1-4 yrs;٢;None;١;١;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Other;٣٠١٧;None;< 1yr;٣;None;١;١;;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٢;Paid Up;Used car;٣٠١٧;None;< 1yr;٣;None;١;١;٣٤;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٢;No Problems (in this bank);Home Related;٣١٢٤;None;< 1yr;١;None;٣;١;٤٩;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Used car;٣٣٣١;None;4-7 yrs;٢;None;;٢;٤٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٣٣٩٩;£100-£1000;4-7 yrs;٢;None;;٣;٣٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٢;Paid Up;Home Related;٣٥٢٧;£100-£1000;< 1yr;٢;None;;٢;٤٥;Other Banks/Depts;٢;1;١;٢;٢;١
+Creditworthy;Some Balance;١٢;No Problems (in this bank);Used car;٥٨٠١;£100-£1000;4-7 yrs;٢;None;;٢;٤٩;Other Banks/Depts;١;1;١;١;٢;٢
+Non-Creditworthy;No Account;١٢;Paid Up;Home Related;٦٤٦٨;£100-£1000;< 1yr;٢;None;;٤;٥٢;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٢;Paid Up;Home Related;٧٤٧٢;£100-£1000;< 1yr;١;None;٢;١;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٣;Paid Up;Home Related;١٤٠٩;< £100;< 1yr;٢;None;٤;١;٦٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٤;Paid Up;Home Related;١٤١٠;£100-£1000;4-7 yrs;١;None;٢;١;٣٥;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;١٤;Paid Up;Home Related;٨٩٧٨;None;4-7 yrs;١;None;;٢;٤٥;Other Banks/Depts;٢;1;١;١;٢;٢
+Non-Creditworthy;No Account;١٥;Some Problems;Home Related;٩٥٠;None;4-7 yrs;٤;None;;٣;٣٣;Other Banks/Depts;١;More than 1;١;٢;١;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Used car;٩٦٠;£100-£1000;1-4 yrs;٣;None;;٢;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٥;No Problems (in this bank);Used car;٩٧٥;None;< 1yr;٢;None;;٢;٢٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;Paid Up;New car;١٣٠٠;£100-£1000;4-7 yrs;٤;None;;٤;٤٥;Other Banks/Depts;٣;1;١;٢;١;١
+Creditworthy;No Account;١٥;Paid Up;Home Related;١٣٠٨;None;4-7 yrs;٤;None;;٣;٣٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Home Related;١٣٦٠;None;< 1yr;٤;None;;٢;٣١;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;Paid Up;Home Related;١٣٨٦;£100-£1000;< 1yr;٤;None;٢;١;٤٠;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Home Related;١٤٧١;None;< 1yr;٤;None;;٤;٣٥;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;١٥;No Problems (in this bank);Home Related;١٥١٢;£100-£1000;< 1yr;٣;None;;٢;٦١;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Used car;١٥٢٠;£100-£1000;4-7 yrs;٤;None;;٢;٦٣;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٥;Some Problems;Home Related;١٧٧٨;None;< 1yr;٢;None;١;١;٢٦;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Home Related;١٨٢٩;None;4-7 yrs;٤;None;;٣;٤٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٥;Paid Up;Home Related;١٩٠٥;None;4-7 yrs;٤;None;;٣;٤٠;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;١٥;Paid Up;Used car;٢٢٢١;£100-£1000;< 1yr;٢;None;;٣;٢٠;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٥;No Problems (in this bank);Home Related;٢٣٢٦;£100-£1000;< 1yr;٢;None;;٣;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٥;Paid Up;Home Related;٢٣٢٧;None;< 1yr;٢;None;٣;١;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;١٥;Paid Up;Home Related;٢٥١١;None;< 1yr;١;None;;٣;٢٣;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;No Account;١٥;Paid Up;Home Related;٢٦٣١;< £100;< 1yr;٢;None;;٣;٢٨;Other Banks/Depts;١;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٥;Paid Up;Home Related;٢٦٨٧;None;1-4 yrs;٢;None;;٢;٢٦;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Used car;٢٧٨٨;None;1-4 yrs;٢;Yes;;٣;٢٤;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;Paid Up;Home Related;٣١٨٦;£100-£1000;1-4 yrs;٢;None;;٣;٢٠;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);Used car;٣٣٤٣;None;< 1yr;٤;None;;٤;٢٨;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;Some Balance;١٥;No Problems (in this bank);New car;٣٥٩٤;None;< 1yr;١;None;;٢;٤٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٥;Paid Up;New car;٤٦٥٧;None;< 1yr;٣;None;;٣;٣٠;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;١٦;No Problems (in this bank);Home Related;٢٦٢٥;None;4-7 yrs;٢;Yes;;٢;٤٣;Other Banks/Depts;١;1;١;١;٢;٢
+Creditworthy;No Account;١٨;Paid Up;Home Related;٨٦٦;None;< 1yr;٤;Yes;٢;١;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١٠٢٨;None;< 1yr;٤;None;٣;١;٣٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٨;No Problems (in this bank);Used car;١٠٤٩;None;< 1yr;٤;None;;٢;٢١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١٠٥٥;None;< 1yr;٤;None;;٢;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١٠٩٨;None;< 1yr;٤;None;;٣;٦٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١١٤٩;£100-£1000;< 1yr;٤;None;٣;١;٤٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;١٨;Paid Up;Home Related;١٢١٦;None;< 1yr;٤;None;;٣;٢٣;Other Banks/Depts;١;1;١;١;٢;١
+Non-Creditworthy;No Account;١٨;Paid Up;Home Related;١٢١٧;None;< 1yr;٤;None;٣;١;٤٧;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;١٣٠١;None;4-7 yrs;٤;Yes;٢;١;٣٢;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٨;Paid Up;Home Related;١٣٤٥;None;< 1yr;٤;None;٣;١;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;١٨;Some Problems;Home Related;١٤٤٢;None;1-4 yrs;٤;None;;٤;٣٢;Other Banks/Depts;٣;More than 1;١;٢;١;١
+Creditworthy;Some Balance;١٨;Paid Up;Home Related;١٤٥٣;None;< 1yr;٣;None;١;١;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٨;Paid Up;Home Related;١٤٧٣;None;< 1yr;٣;None;٤;١;٣٩;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;١٨;Paid Up;Used car;١٥٣٣;None;< 1yr;٤;Yes;;٢;٤٣;Other Banks/Depts;٢;1;١;٢;١;١
+Non-Creditworthy;No Account;١٨;Some Problems;Used car;١٥٥٣;None;< 1yr;٤;None;;٣;٤٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١٥٨٢;£100-£1000;4-7 yrs;٤;None;;٣;٤٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٨;No Problems (in this bank);Home Related;١٧٩٥;None;4-7 yrs;٣;Yes;٤;١;٤٨;Other Banks/Depts;١;More than 1;١;١;٢;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١٨٠٠;None;< 1yr;٤;None;;٣;٢٤;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;١٨٦٤;< £100;< 1yr;٤;None;٢;١;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;١٨;No Problems (in this bank);Used car;١٩٢٨;None;< 1yr;٢;None;٢;١;٣١;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;١٩٣٦;£100-£1000;1-4 yrs;٢;None;;٣;٢٣;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٨;Paid Up;Home Related;١٩٦١;None;4-7 yrs;٣;None;;٣;٢٣;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;١٨;Paid Up;Used car;١٩٨٤;None;< 1yr;٤;None;;٤;٤٧;Other Banks/Depts;٣;More than 1;١;١;١;١
+Non-Creditworthy;No Account;١٨;Paid Up;Used car;٢٠٣٩;None;< 1yr;١;None;٤;١;٢٠;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٨;Paid Up;Home Related;٢١٠٠;None;< 1yr;٤;Yes;٢;١;٣٧;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;٢١٦٩;None;< 1yr;٤;None;;٣;٢٨;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;٢٢٣٨;None;< 1yr;٢;None;;٣;٢٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;٢٢٤٩;< £100;1-4 yrs;٤;None;;٣;٣٠;Other Banks/Depts;٢;1;١;٢;٢;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;٢٤٠٤;None;< 1yr;٢;None;;٣;٢٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;١٨;Paid Up;Used car;٢٥١٥;None;< 1yr;٣;None;٤;١;٤٣;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;٢٦٢٢;< £100;< 1yr;٤;None;;٣;٣٤;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;Some Balance;١٨;No Problems (in this bank);Home Related;٢٧٧٥;None;1-4 yrs;٢;None;;٢;٣١;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;١٨;Paid Up;Used car;٢٨٦٤;None;< 1yr;٢;None;١;١;٣٤;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;١٨;No Problems (in this bank);Home Related;٢٨٩٩;£100-£1000;4-7 yrs;٤;None;;٣;٤٣;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;٣٢١٣;£100-£1000;< 1yr;١;None;٣;١;٢٥;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;١٨;No Problems (in this bank);Home Related;٣٥٩٠;None;< 1yr;٣;None;;٣;٤٠;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Creditworthy;No Account;١٨;No Problems (in this bank);Used car;٣٦١٢;None;4-7 yrs;٣;None;;٢;٣٧;Other Banks/Depts;٢;1;١;١;٢;٢
+Creditworthy;No Account;١٨;Paid Up;Used car;٣٦٥٠;None;< 1yr;١;None;;٣;٢٢;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;١٨;No Problems (in this bank);New car;٣٨٥٠;None;1-4 yrs;٣;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;١٨;No Problems (in this bank);Used car;٤٢٩٧;None;4-7 yrs;٤;None;;٤;٤٠;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;٤٣٨٠;< £100;< 1yr;٣;None;;٣;٣٥;Other Banks/Depts;٢;1;١;٢;٢;١
+Creditworthy;No Account;١٨;Paid Up;Home Related;٤٤٣٩;None;4-7 yrs;١;Yes;١;١;٣٣;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;١٨;Paid Up;Home Related;٤٥٩٤;None;< 1yr;٣;None;;٣;٣٢;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;١٨;No Problems (in this bank);Used car;٧٣٧٤;None;< 1yr;٤;None;;٢;٤٠;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;١٨;Paid Up;New car;٧٥١١;£100-£1000;4-7 yrs;١;None;;٢;٥١;Other Banks/Depts;٣;1;١;٢;٢;١
+Creditworthy;No Account;٢٠;Paid Up;Used car;٢٢١٢;£100-£1000;1-4 yrs;٤;None;;٣;٣٩;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٢٠;No Problems (in this bank);Other;٢٢٣٥;None;< 1yr;٤;Yes;٢;٢;٣٣;Other Banks/Depts;١;More than 1;١;١;١;٢
+Non-Creditworthy;No Account;٢٠;No Problems (in this bank);Home Related;٢٢٣٥;None;< 1yr;٤;Yes;;٢;٣٣;Other Banks/Depts;١;More than 1;١;١;١;٢
+Creditworthy;Some Balance;٢٠;No Problems (in this bank);Home Related;٣٤٨٥;£100-£1000;< 1yr;٢;None;٤;١;٤٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٢١;No Problems (in this bank);Home Related;٥٧١;None;4-7 yrs;٤;None;٤;١;٦٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢١;Paid Up;Home Related;١١٨٨;None;4-7 yrs;٢;None;;٢;٣٩;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;Some Balance;٢١;Paid Up;Used car;٢٢٤١;None;4-7 yrs;٤;None;٢;١;٥٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٢١;No Problems (in this bank);Used car;٢٢٨٨;None;< 1yr;٤;None;;٢;٢٣;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;٢١;No Problems (in this bank);Home Related;٢٥٨٠;£100-£1000;< 1yr;٤;None;٢;١;٤١;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٢١;No Problems (in this bank);Used car;٢٧٤٥;£100-£1000;1-4 yrs;٣;None;;٣;٣٢;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢١;Paid Up;Home Related;٢٧٨٢;£100-£1000;1-4 yrs;١;None;;٣;٣١;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢١;Paid Up;Home Related;٣١٦٠;£100-£1000;4-7 yrs;٤;None;;٢;٤١;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢١;No Problems (in this bank);New car;٣٢٧٥;None;4-7 yrs;١;None;;٣;٣٦;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٢١;Paid Up;Home Related;٣٣٥٧;£100-£1000;< 1yr;٤;None;;٣;٢٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٢١;Paid Up;Used car;٣٥٩٩;None;1-4 yrs;١;None;;٣;٢٦;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٢١;Paid Up;Used car;٣٩٧٦;£100-£1000;1-4 yrs;٢;None;;٣;٣٥;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;٢١;No Problems (in this bank);Home Related;١٢٦٨٠;£100-£1000;4-7 yrs;٤;None;;٤;٣٠;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;Some Balance;٢٢;Paid Up;Home Related;١٢٨٣;£100-£1000;1-4 yrs;٤;None;;٢;٢٥;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٧١٧;£100-£1000;4-7 yrs;٤;None;;٣;٥٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Used car;٩٢٩;£100-£1000;1-4 yrs;٤;None;;٣;٣١;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٩٣٧;None;< 1yr;٤;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٩٤٧;None;1-4 yrs;٤;None;;٤;٣٨;Other Banks/Depts;٣;1;١;٢;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٩٩٩;£100-£1000;4-7 yrs;٤;None;;٣;٢٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Home Related;١١٩٣;None;< 1yr;١;Yes;;٤;٢٩;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;No Account;٢٤;Paid Up;Home Related;١٢٠١;None;< 1yr;٤;None;;٢;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١٢٣١;£100-£1000;4-7 yrs;٤;None;;٢;٥٧;Other Banks/Depts;١;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;١٢٤٦;None;< 1yr;٤;None;٢;١;٢٣;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٢٤٩;None;< 1yr;٤;None;٢;١;٢٨;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٢٥٨;None;1-4 yrs;٤;None;١;١;٢٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٢٥٨;£100-£1000;< 1yr;٣;None;;٣;٥٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٢٧٥;£100-£1000;< 1yr;٢;None;٤;١;٣٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٢٧٨;None;4-7 yrs;٤;None;١;١;٣٦;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٢٨٧;£100-£1000;4-7 yrs;٤;None;٤;١;٣٧;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٣١١;< £100;1-4 yrs;٤;None;;٢;٢٦;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٣٤٤;£100-£1000;1-4 yrs;٤;None;٢;١;٣٧;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;١٣٥٥;None;< 1yr;٣;None;;٣;٢٥;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Home Related;١٣٥٨;£100-£1000;4-7 yrs;٤;None;;٣;٤٠;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;١٣٧١;£100-£1000;< 1yr;٤;None;٤;١;٢٥;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٣٧٦;£100-£1000;1-4 yrs;٤;None;;٣;٢٨;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٣٧٧;< £100;4-7 yrs;٤;None;;٤;٤٧;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١٣٨٢;< £100;1-4 yrs;٤;None;١;١;٢٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٣٩٣;None;< 1yr;٢;Yes;٢;١;٣١;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٤١٣;None;< 1yr;٤;None;;٢;٢٨;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;١٤٤٢;None;1-4 yrs;٤;None;;٣;٢٣;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٤٦٩;< £100;4-7 yrs;٤;None;٤;١;٤١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٥١٦;£100-£1000;< 1yr;٤;None;١;١;٤٣;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Home Related;١٥٤٦;None;1-4 yrs;٤;Yes;;٣;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٥٥٢;None;1-4 yrs;٣;None;;٣;٣٢;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١٥٥٣;< £100;1-4 yrs;٣;None;;٢;٢٣;Other Banks/Depts;١;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٥٩٧;None;4-7 yrs;٤;None;;٤;٥٤;Other Banks/Depts;٣;More than 1;١;٢;١;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١٧٤٣;None;4-7 yrs;٤;None;;٢;٤٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٢٤;Paid Up;Used car;١٧٤٧;None;< 1yr;٤;Yes;;٢;٢٤;Other Banks/Depts;٢;1;١;١;١;٢
+Non-Creditworthy;No Account;٢٤;Some Problems;Home Related;١٨٣٧;None;1-4 yrs;٤;None;;٤;٣٤;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٨٥١;None;1-4 yrs;٤;Yes;;٣;٣٣;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;١٩٠١;< £100;< 1yr;٤;None;;٣;٢٩;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Used car;١٩٢٥;None;< 1yr;٢;None;٢;١;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٩٢٧;£100-£1000;< 1yr;٣;None;;٣;٣٣;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١٩٣٥;None;4-7 yrs;٤;None;٤;١;٣١;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;١٩٤٠;£100-£1000;4-7 yrs;٤;None;٤;١;٦٠;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١٩٦٥;£100-£1000;< 1yr;٤;None;;٣;٤٢;Other Banks/Depts;١;More than 1;١;١;٢;١
+Creditworthy;No Account;٢٤;Paid Up;Home Related;١٩٦٧;None;4-7 yrs;٤;None;;٣;٢٠;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٢٠٢٢;None;< 1yr;٤;None;;٣;٣٧;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Used car;٢٠٢٨;None;1-4 yrs;٢;None;;٢;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;No Problems (in this bank);Used car;٢٠٦٤;None;< 1yr;٣;None;;٢;٣٤;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);New car;٢١٩٧;£100-£1000;1-4 yrs;٤;None;;٣;٤٣;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Creditworthy;No Account;٢٤;Some Problems;Home Related;٢٣٢٥;< £100;1-4 yrs;٢;None;;٣;٣٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);New car;٢٣٤٦;None;1-4 yrs;٤;None;;٣;٣٥;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٢٤;Paid Up;Other;٢٣٨٤;None;4-7 yrs;٤;None;٤;١;;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٢٤;Paid Up;Home Related;٢٣٨٤;None;4-7 yrs;٤;None;٤;١;٦٤;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;٢٤٣٩;None;< 1yr;٤;None;٤;١;٣٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٢٤٦٣;< £100;1-4 yrs;٤;None;;٢;٢٧;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٢٥٧٨;£100-£1000;4-7 yrs;٢;None;;٣;٣٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;New car;٢٦٧٠;None;4-7 yrs;٤;None;;٣;٣٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;New car;٢٦٧٩;None;< 1yr;٤;None;;٤;٢٩;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٢٦٨٤;None;< 1yr;٤;None;٢;١;٣٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;٢٨٢٥;£100-£1000;1-4 yrs;٤;None;;٤;٣٤;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Creditworthy;No Account;٢٤;Some Problems;Used car;٢٨٢٨;£100-£1000;< 1yr;٤;None;٤;١;٢٢;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Used car;٢٨٣٥;£100-£1000;4-7 yrs;٣;None;;٢;٥٣;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٢٨٧٢;< £100;4-7 yrs;٣;None;٤;١;٣٦;Other Banks/Depts;٢;1;١;٢;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Used car;٢٨٩٢;None;4-7 yrs;٣;None;;٤;٥١;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;No Account;٢٤;Paid Up;Home Related;٢٨٩٦;< £100;< 1yr;٢;None;;٣;٢٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٢٤;Paid Up;New car;٢٩١٠;None;1-4 yrs;٢;None;;٤;٣٤;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٢٩٧٨;£100-£1000;< 1yr;٤;None;٤;١;٣٢;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Creditworthy;No Account;٢٤;Paid Up;Used car;٣٠٢١;None;< 1yr;٢;None;٢;١;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;٣٠٩٢;< £100;< 1yr;٣;None;;٣;٢٢;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٣١٠٥;£100-£1000;< 1yr;٤;None;;٣;٢٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Home Related;٣١٦١;None;< 1yr;٤;None;;٢;٣١;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٣٢٣٥;£100-£1000;4-7 yrs;٣;None;;٣;٣٦;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Used car;٣٣٤٩;£100-£1000;< 1yr;٤;None;;٤;٣٠;Other Banks/Depts;٣;1;١;٢;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٣٤٣٠;£100-£1000;4-7 yrs;٣;None;;٣;٣١;Other Banks/Depts;٢;1;١;٢;٢;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Used car;٣٥٥٢;None;1-4 yrs;٣;None;;٣;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Other;٣٦١٧;£100-£1000;4-7 yrs;٤;Yes;٤;٤;;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Used car;٣٦١٧;£100-£1000;4-7 yrs;٤;Yes;;٤;٢٠;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;No Account;٢٤;Some Problems;New car;٣٦٣٢;None;< 1yr;١;Yes;;٣;٢٢;Other Banks/Depts;١;1;١;١;١;٢
+Creditworthy;Some Balance;٢٤;Paid Up;Used car;٣٧٤٩;None;< 1yr;٢;None;;٣;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٣٧٥٧;None;4-7 yrs;٤;Yes;;٤;٦٢;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);New car;٣٨٦٨;None;4-7 yrs;٤;None;;٣;٤١;Other Banks/Depts;١;More than 1;١;١;٢;١
+Creditworthy;No Account;٢٤;Paid Up;Used car;٤٠٢٠;None;< 1yr;٢;None;;٣;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);New car;٤٠٤٢;£100-£1000;1-4 yrs;٣;None;;٢;٤٣;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;Paid Up;New car;٤١١٣;£100-£1000;< 1yr;٣;None;;٣;٢٨;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٤١٣٩;< £100;< 1yr;٣;None;;٢;٢٧;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Used car;٤١٥١;< £100;< 1yr;٢;None;;٢;٣٥;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Some Problems;Home Related;٤٢٤١;None;< 1yr;١;None;٤;١;٣٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٢٤;Paid Up;Used car;٤٣٥١;£100-£1000;< 1yr;١;None;;٢;٤٨;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٤٥٢٦;None;< 1yr;٣;None;٢;١;٧٤;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٤٥٩١;£100-£1000;< 1yr;٢;None;;٢;٥٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;No Problems (in this bank);Used car;٤٧٣٦;None;< 1yr;٢;None;;٣;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٢٤;Paid Up;Home Related;٤٨١٧;None;1-4 yrs;٢;Yes;;٢;٣١;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;٤٨٧٠;None;< 1yr;٣;None;;٤;٥٣;Other Banks/Depts;٣;More than 1;١;٢;١;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Other;٥١٠٣;None;< 1yr;٣;None;٣;٤;;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٥١٠٣;None;< 1yr;٣;None;;٤;٤٧;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;New car;٥٤٣٣;£100-£1000;< 1yr;٢;None;;٢;٢٦;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٥٥٠٧;None;4-7 yrs;٣;None;;٤;٤٤;Other Banks/Depts;٣;More than 1;١;١;١;١
+Creditworthy;Some Balance;٢٤;Paid Up;Used car;٥٥١١;< £100;< 1yr;٤;None;;٣;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;٥٧٤٣;None;< 1yr;٢;None;;٤;٢٤;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;No Problems (in this bank);New car;٥٨٠٤;£100-£1000;< 1yr;٤;None;٢;١;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٥٩٤٣;£100-£1000;< 1yr;١;None;;٣;٤٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;٦٤٠٣;None;< 1yr;١;None;;٣;٣٣;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);New car;٦٤١٩;None;4-7 yrs;٢;None;;٤;٤٤;Other Banks/Depts;٣;More than 1;١;٢;٢;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);New car;٦٦١٥;None;< 1yr;٢;None;;٤;٧٥;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;٦٩٦٧;< £100;1-4 yrs;٤;None;;٣;٣٦;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;Home Related;٧٣٩٣;None;< 1yr;١;None;;٢;٤٣;Other Banks/Depts;٢;1;١;٢;١;١
+Non-Creditworthy;Some Balance;٢٤;No Problems (in this bank);Home Related;٨٦٤٨;None;< 1yr;٢;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٤;Paid Up;New car;٩٢٧٧;£100-£1000;< 1yr;٢;None;;٤;٤٨;Other Banks/Depts;٣;1;١;١;٢;١
+Non-Creditworthy;No Account;٢٤;No Problems (in this bank);Home Related;١١٩٣٨;None;< 1yr;٢;Yes;;٣;٣٩;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Non-Creditworthy;No Account;٢٤;Paid Up;New car;١٢٥٧٩;None;4-7 yrs;٤;None;;٤;٤٤;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;No Account;٢٦;Paid Up;New car;٧٩٦٦;None;< 1yr;٢;None;;٣;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٧;No Problems (in this bank);Home Related;٢٥٢٠;£100-£1000;< 1yr;٤;None;;٢;٢٣;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;Some Balance;٢٧;Paid Up;Home Related;٢٥٧٠;None;< 1yr;٣;None;٣;١;٢١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٢٧;No Problems (in this bank);Home Related;٥١١٧;None;1-4 yrs;٣;None;;٣;٢٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٢٧;No Problems (in this bank);New car;٥٩٦٥;None;4-7 yrs;١;None;;٣;٣٠;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٢٧;No Problems (in this bank);New car;٨٦١٣;£100-£1000;< 1yr;٢;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٢٨;No Problems (in this bank);Home Related;٢٧٤٣;None;4-7 yrs;٤;None;;٣;٢٩;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٢٨;Paid Up;Home Related;٤٠٠٦;None;< 1yr;٣;None;;٣;٤٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٢٨;Some Problems;New car;٧٨٢٤;£100-£1000;< 1yr;٣;Yes;٤;١;٤٠;Other Banks/Depts;١;More than 1;١;٢;٢;١
+Creditworthy;Some Balance;٣٠;Paid Up;Other;١٨٦٧;£100-£1000;4-7 yrs;٤;None;٤;٣;;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٣٠;Paid Up;Home Related;١٨٦٧;£100-£1000;4-7 yrs;٤;None;;٣;٥٨;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;٣٠;No Problems (in this bank);Home Related;١٩٠٨;None;4-7 yrs;٤;None;٤;١;٦٦;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٣٠;No Problems (in this bank);Home Related;١٩١٩;< £100;< 1yr;٤;None;;٤;٣٠;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٣٠;Paid Up;Home Related;٢١٥٠;None;< 1yr;٤;Yes;;٤;٢٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٣٠;No Problems (in this bank);Home Related;٢١٨١;£100-£1000;4-7 yrs;٤;None;٤;١;٣٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٣٠;Paid Up;Home Related;٢٣٣٣;£100-£1000;4-7 yrs;٤;None;;٣;٣٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٣٠;Paid Up;Home Related;٢٥٢٢;None;4-7 yrs;١;Yes;;٢;٣٩;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٣٠;Paid Up;Home Related;٢٩٩١;£100-£1000;4-7 yrs;٢;None;;٣;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٠;No Problems (in this bank);Home Related;٣٠١٧;None;4-7 yrs;٤;None;;٢;٤٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٠;No Problems (in this bank);Home Related;٣٠٧٧;£100-£1000;4-7 yrs;٣;None;;٣;٤٠;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Creditworthy;Some Balance;٣٠;No Problems (in this bank);Home Related;٣٦٥٦;£100-£1000;4-7 yrs;٤;None;;٢;٤٩;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٣٠;Some Problems;Home Related;٤٢٢١;None;< 1yr;٢;None;;٣;٢٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٣٠;No Problems (in this bank);Home Related;٤٢٤٩;None;< 1yr;٤;None;;٣;٢٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٣٠;No Problems (in this bank);Home Related;٤٢٧٢;< £100;< 1yr;٢;None;;٢;٢٦;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٣٠;Some Problems;Home Related;٤٢٨٠;< £100;< 1yr;٤;None;;٣;٢٦;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;٣٠;Paid Up;New car;٤٨١١;£100-£1000;1-4 yrs;٢;None;;٢;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٣٠;No Problems (in this bank);New car;٦١٨٧;< £100;1-4 yrs;١;None;;٣;٢٤;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;Some Balance;٣٣;No Problems (in this bank);Home Related;٢٧٦٤;None;< 1yr;٢;None;;٣;٢٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٣٣;No Problems (in this bank);Used car;٤٢٨١;£100-£1000;< 1yr;١;None;;٣;٢٣;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٣٣;No Problems (in this bank);New car;٧٢٥٣;None;1-4 yrs;٣;None;;٣;٣٥;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٩٠٩;£100-£1000;4-7 yrs;٤;None;;٢;٣٦;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Home Related;١٨٤٢;None;< 1yr;٤;None;;٣;٣٤;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٢١٤٥;None;1-4 yrs;٢;None;;٣;٢٤;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٢٢٢٥;None;4-7 yrs;٤;None;;٤;٥٧;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Creditworthy;No Account;٣٦;Paid Up;Home Related;٢٢٧٣;None;1-4 yrs;٣;None;;٣;٣٢;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٢٢٩٩;£100-£1000;4-7 yrs;٤;None;;٣;٣٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٣٦;Paid Up;Home Related;٢٣٢٣;None;1-4 yrs;٤;None;;٣;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٣٦;No Problems (in this bank);Used car;٢٣٤٨;None;< 1yr;٣;None;;٢;٤٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٢٣٩٤;£100-£1000;< 1yr;٤;None;;٣;٢٥;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٦;Some Problems;Home Related;٢٦١٣;None;< 1yr;٤;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Home Related;٢٦٧١;< £100;< 1yr;٤;Yes;;٤;٥٠;Other Banks/Depts;٣;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Some Problems;Used car;٢٧٤٦;None;4-7 yrs;٤;None;;٣;٣١;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٢٨٢٠;None;< 1yr;٤;None;;٣;٢٧;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٢٨٦٢;< £100;4-7 yrs;٤;None;;٤;٣٠;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٣٠٧٩;£100-£1000;< 1yr;٤;None;٤;١;٣٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٦;No Problems (in this bank);Home Related;٣٥٣٥;None;1-4 yrs;٤;None;;٣;٣٧;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٣٥٩٥;None;4-7 yrs;٤;None;;٣;٢٨;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٣٦;Paid Up;Used car;٣٦٢٠;None;< 1yr;١;Yes;;٢;٣٧;Other Banks/Depts;٢;1;١;٢;١;١
+Creditworthy;No Account;٣٦;Paid Up;Home Related;٣٧١١;£100-£1000;< 1yr;٢;None;;٣;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Some Problems;Home Related;٣٨٠٤;None;< 1yr;٤;None;;٣;٤٢;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٤٢١٠;None;< 1yr;٤;None;;٣;٢٦;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٦;No Problems (in this bank);Home Related;٤٤٥٤;None;< 1yr;٤;None;٤;١;٣٤;Other Banks/Depts;٢;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٤٤٥٥;None;< 1yr;٢;None;٢;١;٣٠;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٤٤٧٣;None;4-7 yrs;٤;None;;٣;٣١;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Used car;٥١٧٩;None;1-4 yrs;٤;None;;٢;٢٩;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٦;Paid Up;Home Related;٥٨٤٨;None;< 1yr;٤;None;;٣;٢٤;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٦٨٨٧;None;< 1yr;٤;None;;٢;٢٩;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٣٦;Paid Up;New car;٦٩٤٨;None;< 1yr;٢;None;;٣;٣٥;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٧٤٣٢;None;< 1yr;٢;None;;٢;٥٤;Other Banks/Depts;١;1;١;١;١;١
+Non-Creditworthy;Some Balance;٣٦;No Problems (in this bank);Home Related;٧٨٥٥;None;< 1yr;٤;None;٢;١;٢٥;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Non-Creditworthy;Some Balance;٣٦;No Problems (in this bank);Home Related;٧٩٨٠;£100-£1000;< 1yr;٤;None;;٣;٢٧;Other Banks/Depts;١;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٣٦;No Problems (in this bank);Home Related;٨٠٦٥;None;< 1yr;٣;None;;٤;٢٥;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;Some Balance;٣٦;Paid Up;New car;٨١٣٣;None;< 1yr;١;None;;٢;٣٠;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Paid Up;New car;٨٢٢٩;None;< 1yr;٢;None;;٢;٢٦;Other Banks/Depts;٢;1;١;٢;١;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Used car;٩٠٣٤;< £100;< 1yr;٤;Yes;;٤;٢٩;Other Banks/Depts;١;1;١;١;٢;١
+Non-Creditworthy;No Account;٣٦;Paid Up;New car;٩٣٩٨;None;< 1yr;١;None;;٣;٢٨;Other Banks/Depts;١;1;١;١;٢;١
+Creditworthy;Some Balance;٣٦;No Problems (in this bank);Home Related;٩٥٦٦;None;< 1yr;٢;None;;٣;٣١;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٣٦;No Problems (in this bank);New car;١٠٤٧٧;£100-£1000;4-7 yrs;٢;None;;٤;٤٢;Other Banks/Depts;٣;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Home Related;١٢٦١٢;< £100;< 1yr;١;None;;٤;٤٧;Other Banks/Depts;٣;1;١;٢;٢;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Other;١٤٣١٨;None;4-7 yrs;٤;None;٢;٤;٥٧;Other Banks/Depts;٣;1;١;١;٢;١
+Non-Creditworthy;No Account;٣٦;Paid Up;Home Related;١٤٣١٨;None;4-7 yrs;٤;None;;٤;٥٧;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;Some Balance;٣٩;Paid Up;New car;٢٥٦٩;£100-£1000;< 1yr;٤;None;;٣;٢٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٣٩;Paid Up;New car;٨٥٨٨;< £100;4-7 yrs;٤;None;;٣;٤٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٣٩;No Problems (in this bank);Home Related;١١٧٦٠;< £100;1-4 yrs;٢;None;;٤;٣٢;Other Banks/Depts;١;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٠;No Problems (in this bank);Home Related;٥٩٩٨;None;< 1yr;٤;None;;٤;٢٧;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٢;Paid Up;Home Related;٣٩٦٥;None;< 1yr;٤;None;;٣;٣٤;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٤٢;No Problems (in this bank);Used car;٤٠٤١;£100-£1000;< 1yr;٤;None;٤;١;٣٦;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٤٢;No Problems (in this bank);Home Related;٥٩٥٤;None;1-4 yrs;٢;None;١;١;٤١;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;Some Balance;٤٢;Paid Up;Home Related;٧١٦٦;£100-£1000;1-4 yrs;٢;None;;٢;٢٩;Other Banks/Depts;١;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٢;Paid Up;Home Related;٧١٧٤;£100-£1000;1-4 yrs;٤;None;;٣;٣٠;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٥;Paid Up;Home Related;١٨٤٥;None;< 1yr;٤;None;;٤;٢٣;Other Banks/Depts;٣;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٥;Paid Up;Home Related;٣٠٣١;< £100;< 1yr;٤;Yes;;٢;٢١;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٤٥;No Problems (in this bank);New car;٤٥٧٦;< £100;< 1yr;٣;None;;٣;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٤٥;Some Problems;Home Related;١١٨١٦;None;4-7 yrs;٢;None;;٣;٢٩;Other Banks/Depts;١;More than 1;١;١;١;١
+Creditworthy;No Account;٤٧;Paid Up;Home Related;١٠٧٢٢;None;< 1yr;١;None;١;١;٣٥;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٤٨;No Problems (in this bank);New car;٢٧٥١;£100-£1000;4-7 yrs;٤;None;;٣;٣٨;Other Banks/Depts;٢;More than 1;١;٢;٢;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Home Related;٣٠٦٠;None;1-4 yrs;٤;None;٤;١;٢٨;Other Banks/Depts;٢;More than 1;١;١;١;١
+Creditworthy;No Account;٤٨;Some Problems;Home Related;٣٥٦٦;< £100;1-4 yrs;٤;None;;٣;٣٠;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٤٨;No Problems (in this bank);Home Related;٣٥٧٨;£100-£1000;4-7 yrs;٤;None;١;١;٤٧;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;Some Balance;٤٨;Some Problems;Home Related;٣٦٠٩;None;< 1yr;١;None;١;١;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Home Related;٣٩٣١;None;1-4 yrs;٤;None;;٤;٤٦;Other Banks/Depts;٣;1;١;٢;١;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Home Related;٤٣٠٨;None;< 1yr;٣;None;;٢;٢٤;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;No Account;٤٨;Paid Up;New car;٤٧٨٨;None;1-4 yrs;٤;None;;٢;٢٦;Other Banks/Depts;٢;1;١;٢;١;١
+Non-Creditworthy;Some Balance;٤٨;Paid Up;Home Related;٤٨٤٤;None;< 1yr;٣;None;;٣;٣٣;Other Banks/Depts;١;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;No Problems (in this bank);Used car;٥٠٩٦;None;< 1yr;٢;None;;٣;٣٠;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Home Related;٥٩٥١;None;< 1yr;٢;None;٢;١;٢٢;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;Some Balance;٤٨;No Problems (in this bank);Home Related;٦١١٠;None;< 1yr;١;None;;٤;٣١;Other Banks/Depts;٣;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;No Problems (in this bank);New car;٦١٤٣;None;4-7 yrs;٤;None;;٤;٥٨;Other Banks/Depts;٣;More than 1;١;١;١;١
+Non-Creditworthy;No Account;٤٨;No Problems (in this bank);Home Related;٦٢٢٤;None;4-7 yrs;٤;None;;٤;٥٠;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;No Account;٤٨;No Problems (in this bank);Home Related;٦٦٨١;£100-£1000;< 1yr;٤;None;;٤;٣٨;Other Banks/Depts;٣;1;١;٢;٢;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Home Related;٦٧٥٨;None;< 1yr;٣;None;;٣;٣١;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;Some Problems;Used car;٧١١٩;None;< 1yr;٣;None;;٤;٥٣;Other Banks/Depts;٣;More than 1;١;٢;١;١
+Creditworthy;Some Balance;٤٨;No Problems (in this bank);Home Related;٧٢٣٨;£100-£1000;4-7 yrs;٣;None;;٣;٣٢;Other Banks/Depts;٢;More than 1;١;٢;١;١
+Creditworthy;No Account;٤٨;Paid Up;Home Related;٧٤٧٦;None;1-4 yrs;٤;None;;٤;٥٠;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;No Account;٤٨;No Problems (in this bank);Home Related;٧٥٨٢;< £100;< 1yr;٢;None;;٤;٣١;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;Some Problems;Home Related;٧٦٨٥;None;1-4 yrs;٢;Yes;;٣;٣٧;Other Banks/Depts;١;1;١;١;١;١
+Creditworthy;Some Balance;٤٨;No Problems (in this bank);New car;٨٨٥٨;£100-£1000;1-4 yrs;٢;None;;٤;٣٥;Other Banks/Depts;٣;More than 1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Used car;٩٩٦٠;None;< 1yr;١;None;;٣;٢٦;Other Banks/Depts;٢;1;١;١;٢;١
+Creditworthy;No Account;٤٨;Some Problems;Home Related;١٢١٦٩;£100-£1000;< 1yr;٤;Yes;;٤;٣٦;Other Banks/Depts;٣;1;١;١;٢;١
+Creditworthy;No Account;٤٨;Some Problems;Home Related;١٢٢٠٤;£100-£1000;< 1yr;٢;None;;٣;٤٨;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;Paid Up;Home Related;١٥٦٧٢;None;< 1yr;٢;None;;٣;٢٣;Other Banks/Depts;٢;1;١;١;٢;١
+Non-Creditworthy;No Account;٤٨;Some Problems;Home Related;١٨٤٢٤;None;< 1yr;١;None;;٢;٣٢;Other Banks/Depts;٢;1;١;١;٢;٢
+Non-Creditworthy;No Account;٦٠;Paid Up;Home Related;٦٢٨٨;None;< 1yr;٤;None;;٤;٤٢;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;Some Balance;٦٠;Paid Up;Home Related;٦٥٢٧;£100-£1000;< 1yr;٤;None;;٤;٣٤;Other Banks/Depts;٣;1;١;٢;٢;١
+Non-Creditworthy;No Account;٦٠;No Problems (in this bank);Home Related;٦٨٣٦;None;4-7 yrs;٣;None;;٤;٦٣;Other Banks/Depts;٢;More than 1;١;١;٢;١
+Creditworthy;No Account;٦٠;No Problems (in this bank);Other;٧٤١٨;£100-£1000;< 1yr;١;None;١;١;;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٦٠;No Problems (in this bank);Home Related;٧٤١٨;£100-£1000;< 1yr;١;None;١;١;٢٧;Other Banks/Depts;٢;1;١;١;١;١
+Creditworthy;No Account;٦٠;No Problems (in this bank);Home Related;٩١٥٧;£100-£1000;< 1yr;٢;None;;٤;٢٧;Other Banks/Depts;٣;1;١;١;١;١
+Creditworthy;Some Balance;٦٠;No Problems (in this bank);Home Related;١٣٧٥٦;£100-£1000;4-7 yrs;٢;None;;٤;٦٣;Other Banks/Depts;٣;1;١;١;٢;١
+Non-Creditworthy;No Account;٦٠;Paid Up;Home Related;١٤٠٢٧;None;1-4 yrs;٤;None;;٤;٢٧;Other Banks/Depts;٢;1;١;١;٢;١
